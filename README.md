@@ -4,7 +4,7 @@ An enhanced build publisher for Cruise Control .NET that offers a new property i
 This publisher operates in all ways, exactly like the standard BuildPublisher.
 
 Use the following optional tag within the EnhancedBuildPublisher tag to allow it to recurse through subfolders.
-<recurse>true</recurse>
+&lt;recurse&gt;true&lt;/recurse&gt;
 
 Specify false to only copy files at the top level and skip subfolders.
 
